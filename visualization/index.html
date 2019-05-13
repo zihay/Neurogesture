@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="echarts.min.js"></script>
+    <!-- <script src="dataTool.min.js"></script> -->
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script src="bi.js"></script>
+    <script src="bi_trans.js"></script>
+    <script src="ps.js"></script>
+    <script src="ps_trans.js"></script>
+</head>
+
+<body>
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+    <div id="main" style="width: 1200px;height:1200px;"></div>
+    <script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('main'));
+        myChart.showLoading();
+        myChart.hideLoading();
+        fre = bi_fre
+        nodes = fre
+        categories = ['camera', 'look_down', 'slide', 'look_away_slide', 'other']
+        nodes = []
+        for (var key in fre) {
+            nodes.push({
+                'id': key,
+                'name': key,
+                'value': fre[key]
+            })
+        }
+        nodes.forEach(function(node) {
+            categories.forEach((c, i) => {
+                if (node.name.includes(c)) {
+                    node.category = i
+                }
+            })
+            node.itemStyle = null;
+            node.symbolSize = node.value * 200 + 10;
+            node.value = node.symbolSize;
+            node.label = {
+                normal: {
+                    show: node.symbolSize > 10
+                }
+            };
+        });
+        bi_trans = bi_trans.filter(function(t) {
+            if (t.prob == 0.0) {
+                return false
+            }
+            return true
+        })
+        i = 0
+        links = bi_trans.map(function(t, i) {
+            return {
+                'id': i,
+                'source': t.source,
+                'target': t.target,
+                'lineStyle': {
+                    'width': t.prob * 10
+                }
+            }
+        })
+        option = {
+            title: {
+                text: 'Les Miserables',
+                subtext: 'Circular layout',
+                top: 'bottom',
+                left: 'right'
+            },
+            legend: [{
+                data: categories
+            }],
+            animationDurationUpdate: 1500,
+            animationEasingUpdate: 'quinticInOut',
+            series: [{
+                name: 'Les Miserables',
+                type: 'graph',
+                layout: 'circular',
+                circular: {
+                    rotateLabel: true
+                },
+                categories: categories.map(c => {
+                    return {
+                        'name': c
+                    }
+                }),
+                edgeSymbol: ['circle', 'arrow'],
+                data: nodes,
+                links: links,
+                roam: true,
+                label: {
+                    normal: {
+                        position: 'right',
+                        formatter: '{b}'
+                    }
+                },
+                lineStyle: {
+                    normal: {
+                        color: 'source',
+                        curveness: 0.1
+                    }
+                }
+            }]
+        };
+
+        myChart.setOption(option);
+    </script>
+</body>
+
+</html>

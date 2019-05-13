@@ -1,0 +1,329 @@
+gesture_major		860	2200	1340	beats	
+gesture_major		2610	3640	1030	beats	
+gesture_major		5075	6133	1058	beats	
+gesture_major		11039	12430	1391	beats	
+gesture_major		12448	13600	1152	beats	
+gesture_major		13600	15200	1600	beats	
+gesture_major		15777	16766	989	beats	
+gesture_major		17819	18713	894	beats	
+gesture_major		18940	22992	4052	beats	
+gesture_major		23063	24066	1003	beats	
+gesture_major		24066	24816	750	beats	
+gesture_major		25551	26966	1415	beats	
+gesture_major		27108	27933	825	metaphoric	
+gesture_major		29767	30970	1203	metaphoric	
+gesture_major		30970	31580	610	beats	
+gesture_major		31580	32350	770	metaphoric	
+gesture_major		32519	33233	714	beats	
+gesture_major		34026	34800	774	beats	
+gesture_major		37521	38900	1379	beats	
+gesture_major		41370	42290	920	beats	
+gesture_major		43723	44860	1137	beats	
+gesture_major		45491	46400	909	beats	
+gesture_major		46430	47900	1470	metaphoric	
+gesture_major		48638	49935	1297	beats	
+gesture_major		49935	51200	1265	metaphoric	
+gesture_major		52072	53230	1158	beats	
+gesture_major		53462	54266	804	beats	
+gesture_major		54394	55166	772	beats	
+gesture_major		57651	58519	868	beats	
+gesture_major		58529	60433	1904	metaphoric	
+gesture_major		62170	63822	1652	metaphoric	
+gesture_major		66123	67000	877	beats	
+gesture_major		68127	69787	1660	beats	
+gesture_major		70027	70866	839	beats	
+gesture_major		71246	72833	1587	beats	
+gesture_major		73889	76066	2177	metaphoric	
+gesture_major		79655	81033	1378	beats	
+gesture_major		82140	83038	898	beats	
+gesture_major		83113	83933	820	beats	
+gesture_major		83935	85966	2031	beats	
+gesture_major		86509	87266	757	beats	
+gesture_major		88529	89933	1404	beats	
+gesture_major		91020	91660	640	beats	
+gesture_major		93000	93986	986	metaphoric	
+gesture_major		93986	95033	1047	beats	
+gesture_major		95033	95800	767	beats	
+gesture_major		98132	99500	1368	beats	
+gesture_major		99500	101766	2266	beats	
+gesture_major		101766	102833	1067	beats	
+gesture_major		103151	104166	1015	beats	
+gesture_major		106501	107553	1052	beats	
+gesture_major		107553	108966	1413	metaphoric	
+gesture_major		110270	111833	1563	beats	
+gesture_major		112250	113300	1050	beats	
+gesture_major		119848	120800	952	beats	
+gesture_major		122914	124500	1586	beats	
+gesture_major		124500	125533	1033	metaphoric	
+gesture_major		127180	128966	1786	beats	
+gesture_major		128966	129966	1000	metaphoric	
+gesture_major		131864	132800	936	beats	
+gesture_major		134090	135933	1843	beats	
+gesture_major		136732	137698	966	beats	
+gesture_major		137698	138458	760	beats	
+gesture_major		138458	139633	1175	beats	
+gesture_major		140944	142233	1289	metaphoric	
+gesture_major		142725	143780	1055	beats	
+gesture_major		143785	145100	1315	metaphoric	
+gesture_major		147464	148733	1269	beats	
+gesture_major		149894	150966	1072	beats	
+gesture_major		151736	152533	797	beats	
+gesture_major		152665	153533	868	beats	
+gesture_major		153632	154533	901	metaphoric	
+gesture_major		155379	156323	944	beats	
+gesture_major		160030	161910	1880	beats	
+gesture_major		163441	165300	1859	beats	
+gesture_major		168878	169766	888	beats	
+gesture_major		173952	174966	1014	beats	
+gesture_major		175686	176633	947	beats	
+gesture_major		179370	180690	1320	beats	
+gesture_major		180690	182720	2030	metaphoric	
+gesture_major		185807	187066	1259	beats	
+gesture_major		188022	189133	1111	beats	
+gesture_major		189946	191266	1320	beats	
+gesture_major		193594	194866	1272	beats	
+gesture_major		196935	198200	1265	beats	
+gesture_major		199010	201475	2465	beats	
+gesture_major		201475	202933	1458	beats	
+gesture_major		204096	209933	5837	beats	
+gesture_major		210088	211100	1012	beats	
+gesture_major		211142	213380	2238	beats	
+gesture_major		213660	215100	1440	metaphoric	
+gesture_major		217512	218400	888	beats	
+gesture_major		218427	220033	1606	beats	
+gesture_major		221727	223166	1439	beats	
+gesture_major		224025	225633	1608	beats	
+gesture_major		227900	229450	1550	metaphoric	
+gesture_major		230551	231633	1082	beats	
+gesture_major		231635	232885	1250	metaphoric	
+gesture_major		232885	234200	1315	metaphoric	
+gesture_major		234793	235243	450	beats	
+gesture_major		235243	236233	990	beats	
+gesture_major		238612	239960	1348	beats	
+gesture_major		239960	241000	1040	beats	
+gesture_major		244735	245590	855	beats	
+gesture_major		245590	246966	1376	beats	
+gesture_major		247660	249133	1473	beats	
+gesture_major		253388	255266	1878	beats	
+gesture_major		255316	256333	1017	beats	
+gesture_major		259888	261918	2030	beats	
+gesture_major		261940	263066	1126	beats	
+gesture_major		263418	265033	1615	beats	
+gesture_major		265033	266083	1050	beats	
+gesture_major		266083	267133	1050	beats	
+gesture_major		267133	267791	658	beats	
+gesture_major		267791	268733	942	beats	
+gesture_major		268739	269933	1194	beats	
+scripts		0	3000	3000	road paving have you ever heard
+scripts		3000	4000	1000	something like this on the news
+scripts		4000	6000	2000	Air Force One is landed and the
+scripts		6000	8000	2000	President and First Lady are now walking
+scripts		8000	11000	3000	across the tarmac ever wonder what
+scripts		11000	14000	3000	tarmac is if so take heart you're not
+scripts		14000	17000	3000	alone tarmac it turns out is a type of
+scripts		17000	20000	3000	surface pavement that is short for car
+scripts		20000	24000	4000	penetration macadam got that it's a
+scripts		24000	26000	2000	mouthful actually here in the United
+scripts		26000	28000	2000	States we don't use tarmac much anymore
+scripts		28000	31000	3000	because it's been supplanted that is
+scripts		31000	34000	3000	upstaged by asphalt but we still use the
+scripts		34000	36000	2000	term when referring to the pavement at
+scripts		36000	39000	3000	airports the macadam part of tarmac
+scripts		39000	42000	3000	refers to a Scotsman named John macadam
+scripts		42000	44000	2000	macadam in the early 19th century
+scripts		44000	47000	3000	invented a method of strengthening paved
+scripts		47000	50000	3000	roads to increase the way water drains
+scripts		50000	53000	3000	down roadways he named his technique
+scripts		53000	57000	4000	modestly macadam roads back Adam roads
+scripts		57000	59000	2000	had a sloped roadway covered with three
+scripts		59000	61000	2000	layers of angular gravel which was
+scripts		61000	65000	4000	compacted by a heavy moe these roads
+scripts		65000	67000	2000	were undoubtedly stronger than previous
+scripts		67000	69000	2000	ones but they posed a new difficulty
+scripts		69000	72000	3000	dust when automobiles began using them
+scripts		72000	76000	4000	the cars raised swirls of debris making
+scripts		76000	79000	3000	it shall we say daunting to see so as
+scripts		79000	81000	2000	early as the 1830s people started
+scripts		81000	84000	3000	experimenting by covering macadam roads
+scripts		84000	86000	2000	with tar and sand an attempt to solve
+scripts		86000	91000	5000	this problem in 1901 a man named Ypres
+scripts		91000	94000	3000	nel Huli invented a mixture of car and
+scripts		94000	98000	4000	furnace waste called slag to come up
+scripts		98000	100000	2000	with the infamous car penetration
+scripts		100000	104000	4000	macadam tarmac that improved the dust
+scripts		104000	107000	3000	resistance on macadam roads soon roads
+scripts		107000	109000	2000	throughout England were resurfaced with
+scripts		109000	111000	2000	hooli's invention and the company he
+scripts		111000	114000	3000	founded tarmac limited became very
+scripts		114000	116000	2000	profitable during World War two the
+scripts		116000	118000	2000	British used tarmac to build air strips
+scripts		118000	121000	3000	for jet fighters which is why we still
+scripts		121000	123000	2000	use the term tarmac today as a synonym
+scripts		123000	125000	2000	for runways and other paved airport
+scripts		125000	129000	4000	areas okay now from britain tarmac
+scripts		129000	131000	2000	spread to united states but americans
+scripts		131000	133000	2000	preferred asphalt which is a
+scripts		133000	135000	2000	substance that occurs naturally in lakes
+scripts		135000	137000	2000	and rocks as well as synthetically as a
+scripts		137000	139000	2000	byproduct of petroleum production
+scripts		139000	142000	3000	asphalt is more resilient than tar and
+scripts		142000	144000	2000	holds up better in a wider range of
+scripts		144000	147000	3000	temperatures its first recorded use
+scripts		147000	150000	3000	dates back to about 3000 BC when the
+scripts		150000	152000	2000	Sumerians used it to preserve mummies
+scripts		152000	155000	3000	waterproof ships and cement brick hot
+scripts		155000	158000	3000	mix asphalt or HMA is a combination of
+scripts		158000	161000	3000	aggregates like sand gravel crushed
+scripts		161000	164000	3000	stone minerals and an asphalt binder
+scripts		164000	167000	3000	like coal tar was first used in the US
+scripts		167000	169000	2000	for crosswalks and sidewalks in the late
+scripts		169000	172000	3000	1860's the first road was paved with HMA
+scripts		172000	177000	5000	in 1870 in new jersey until about 1900
+scripts		177000	179000	2000	US producers used natural asphalt which
+scripts		179000	182000	3000	they got mainly from to large lakes in
+scripts		182000	185000	3000	Venezuela refined petroleum asphalt
+scripts		185000	189000	4000	first appeared in the 1870s and by 1907
+scripts		189000	192000	3000	its production outpaced natural asphalt
+scripts		192000	195000	3000	hm a pavement took its modern form in
+scripts		195000	197000	2000	the early 20th century when Frederick
+scripts		197000	199000	2000	Warren earned patents for a hot mix
+scripts		199000	202000	3000	asphalt paving that he turned bitter
+scripts		202000	209000	7000	Lisak that's it be i t u l i th i see
+scripts		209000	212000	3000	typically bit illicit mix contains
+scripts		212000	214000	2000	ingredients that make it more fluid than
+scripts		214000	216000	2000	she asphalt
+scripts		216000	219000	3000	laura ingalls Weidler a noted american
+scripts		219000	222000	3000	author described his fluidity upon her
+scripts		222000	224000	2000	first encounter with asphalt as she
+scripts		224000	226000	2000	watched ladies walk across the asphalt
+scripts		226000	229000	3000	pavement she said their heels dented the
+scripts		229000	231000	2000	street and while we watch these dense
+scripts		231000	233000	2000	slowly fill up and soothed themselves
+scripts		233000	239000	6000	out oh she wrote it was like magic well
+scripts		239000	242000	3000	Warren's patents expired in 1920s and
+scripts		242000	245000	3000	since then asphalt mixes have improved
+scripts		245000	247000	2000	as the popularity of Motor Vehicles
+scripts		247000	250000	3000	skyrocketed local governments scrambled
+scripts		250000	252000	2000	to construct more and better roads
+scripts		252000	255000	3000	leading to technological innovations in
+scripts		255000	257000	2000	both asphalt production and spreading
+scripts		257000	261000	4000	techniques today HMA covers almost 95%
+scripts		261000	264000	3000	of America's paved roads and has as well
+scripts		264000	266000	2000	most of its sidewalks run
+scripts		266000	272000	6000	driveways parking lots and tennis courts
+gesture_handedness		860	2200	1340	both	
+gesture_handedness		2610	3640	1030	both	
+gesture_handedness		5075	6133	1058	both	
+gesture_handedness		11039	12430	1391	both	
+gesture_handedness		12448	13600	1152	both	
+gesture_handedness		13600	15200	1600	both	
+gesture_handedness		15777	16766	989	right	
+gesture_handedness		17819	18713	894	both	
+gesture_handedness		18940	22992	4052	both	
+gesture_handedness		23063	24066	1003	left	
+gesture_handedness		24066	24816	750	left	
+gesture_handedness		25551	26966	1415	both	
+gesture_handedness		27108	27933	825	right	
+gesture_handedness		29767	30970	1203	right	
+gesture_handedness		30970	31580	610	both	
+gesture_handedness		31580	32350	770	both	
+gesture_handedness		32519	33233	714	right	
+gesture_handedness		34026	34800	774	both	
+gesture_handedness		37521	38900	1379	both	
+gesture_handedness		41370	42290	920	both	
+gesture_handedness		43723	44860	1137	both	
+gesture_handedness		45491	46400	909	both	
+gesture_handedness		46430	47900	1470	both	
+gesture_handedness		48638	49935	1297	both	
+gesture_handedness		49935	51200	1265	both	
+gesture_handedness		52072	53230	1158	both	
+gesture_handedness		53462	54266	804	both	
+gesture_handedness		54394	55166	772	both	
+gesture_handedness		57651	58519	868	right	
+gesture_handedness		58529	60433	1904	right	
+gesture_handedness		62170	63822	1652	both	
+gesture_handedness		66123	67000	877	both	
+gesture_handedness		68127	69787	1660	right	
+gesture_handedness		70027	70866	839	right	
+gesture_handedness		71246	72833	1587	both	
+gesture_handedness		73889	76066	2177	both	
+gesture_handedness		79655	81033	1378	both	
+gesture_handedness		82140	83038	898	both	
+gesture_handedness		83113	83933	820	both	
+gesture_handedness		83935	85966	2031	right	
+gesture_handedness		86509	87266	757	both	
+gesture_handedness		88529	89933	1404	both	
+gesture_handedness		91020	91660	640	both	
+gesture_handedness		93000	93986	986	both	
+gesture_handedness		93986	95033	1047	both	
+gesture_handedness		95033	95800	767	both	
+gesture_handedness		98132	99500	1368	both	
+gesture_handedness		99500	101766	2266	right	
+gesture_handedness		101766	102833	1067	both	
+gesture_handedness		103151	104166	1015	both	
+gesture_handedness		106501	107553	1052	both	
+gesture_handedness		107553	108966	1413	right	
+gesture_handedness		110270	111833	1563	right	
+gesture_handedness		112250	113300	1050	right	
+gesture_handedness		119848	120800	952	both	
+gesture_handedness		122914	124500	1586	right	
+gesture_handedness		124500	125533	1033	right	
+gesture_handedness		127180	128966	1786	both	
+gesture_handedness		128966	129966	1000	both	
+gesture_handedness		131864	132800	936	both	
+gesture_handedness		134090	135933	1843	both	
+gesture_handedness		136732	137698	966	right	
+gesture_handedness		137698	138458	760	right	
+gesture_handedness		138458	139633	1175	right	
+gesture_handedness		140944	142233	1289	both	
+gesture_handedness		142725	143780	1055	right	
+gesture_handedness		143785	145100	1315	both	
+gesture_handedness		147464	148733	1269	both	
+gesture_handedness		149894	150966	1072	left	
+gesture_handedness		151736	152533	797	left	
+gesture_handedness		152665	153533	868	both	
+gesture_handedness		153632	154533	901	both	
+gesture_handedness		155379	156323	944	both	
+gesture_handedness		160030	161910	1880	both	
+gesture_handedness		163441	165300	1859	both	
+gesture_handedness		168878	169766	888	both	
+gesture_handedness		173952	174966	1014	both	
+gesture_handedness		175686	176633	947	both	
+gesture_handedness		179370	180690	1320	right	
+gesture_handedness		180690	182720	2030	right	
+gesture_handedness		185807	187066	1259	both	
+gesture_handedness		188022	189133	1111	both	
+gesture_handedness		189946	191266	1320	both	
+gesture_handedness		193594	194866	1272	right	
+gesture_handedness		196935	198200	1265	both	
+gesture_handedness		199010	201475	2465	right	
+gesture_handedness		201475	202933	1458	right	
+gesture_handedness		204096	209933	5837	right	
+gesture_handedness		210088	211100	1012	right	
+gesture_handedness		211142	213380	2238	right	
+gesture_handedness		213660	215100	1440	both	
+gesture_handedness		217512	218400	888	right	
+gesture_handedness		218427	220033	1606	right	
+gesture_handedness		221727	223166	1439	both	
+gesture_handedness		224025	225633	1608	both	
+gesture_handedness		227900	229450	1550	both	
+gesture_handedness		230551	231633	1082	both	
+gesture_handedness		231635	232885	1250	both	
+gesture_handedness		232885	234200	1315	both	
+gesture_handedness		234793	235243	450	both	
+gesture_handedness		235243	236233	990	both	
+gesture_handedness		238612	239960	1348	both	
+gesture_handedness		239960	241000	1040	both	
+gesture_handedness		244735	245590	855	right	
+gesture_handedness		245590	246966	1376	right	
+gesture_handedness		247660	249133	1473	both	
+gesture_handedness		253388	255266	1878	right	
+gesture_handedness		255316	256333	1017	both	
+gesture_handedness		259888	261918	2030	both	
+gesture_handedness		261940	263066	1126	both	
+gesture_handedness		263418	265033	1615	both	
+gesture_handedness		265033	266083	1050	both	
+gesture_handedness		266083	267133	1050	both	
+gesture_handedness		267133	267791	658	both	
+gesture_handedness		267791	268733	942	both	
+gesture_handedness		268739	269933	1194	both	

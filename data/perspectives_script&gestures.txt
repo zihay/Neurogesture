@@ -1,0 +1,370 @@
+gesture_major		0	670	670	beats	
+gesture_major		1510	2300	790	beats	
+gesture_major		2850	3540	690	beats	
+gesture_major		5283	6366	1083	beats	
+gesture_major		7292	8000	708	beats	
+gesture_major		8548	9366	818	beats	
+gesture_major		9435	10470	1035	beats	
+gesture_major		12575	13740	1165	beats	
+gesture_major		14802	15633	831	beats	
+gesture_major		17133	18800	1667	metaphoric	
+gesture_major		18960	20433	1473	metaphoric	
+gesture_major		21440	22766	1326	beats	
+gesture_major		23742	27133	3391	beats	
+gesture_major		27770	28300	530	beats	
+gesture_major		28900	30190	1290	deictic	
+gesture_major		30500	31350	850	beats	
+gesture_major		31530	32230	700	metaphoric	
+gesture_major		32230	33300	1070	metaphoric	
+gesture_major		33550	34533	983	metaphoric	
+gesture_major		36440	37700	1260	beats	
+gesture_major		39910	41173	1263	deictic	
+gesture_major		43230	44466	1236	beats	
+gesture_major		45870	47200	1330	beats	
+gesture_major		49370	50600	1230	beats	
+gesture_major		51340	52300	960	metaphoric	
+gesture_major		55210	56166	956	beats	
+gesture_major		57360	58670	1310	beats	
+gesture_major		59010	60450	1440	beats	
+gesture_major		62133	63600	1467	beats	
+gesture_major		64430	65080	650	beats	
+gesture_major		65080	67140	2060	deictic	
+gesture_major		67740	69090	1350	beats	
+gesture_major		69090	70340	1250	beats	
+gesture_major		72680	73480	800	beats	
+gesture_major		73500	75033	1533	deictic	
+gesture_major		75060	76833	1773	beats	
+gesture_major		77080	78266	1186	beats	
+gesture_major		81400	82233	833	beats	
+gesture_major		83350	84570	1220	metaphoric	
+gesture_major		86550	87233	683	beats	
+gesture_major		88940	89620	680	beats	
+gesture_major		89620	90433	813	metaphoric	
+gesture_major		92870	94466	1596	metaphoric	
+gesture_major		96180	98166	1986	iconic	
+gesture_major		98260	99866	1606	iconic	
+gesture_major		99870	101266	1396	iconic	
+gesture_major		101840	103233	1393	metaphoric	
+gesture_major		104420	105766	1346	beats	
+gesture_major		106220	107200	980	beats	
+gesture_major		108210	109466	1256	deictic	
+gesture_major		109640	110630	990	beats	
+gesture_major		110630	111733	1103	beats	
+gesture_major		112530	113733	1203	metaphoric	
+gesture_major		115570	116566	996	deictic	
+gesture_major		117450	119033	1583	deictic	
+gesture_major		119230	120266	1036	metaphoric	
+gesture_major		121640	123600	1960	metaphoric	
+gesture_major		123600	125200	1600	metaphoric	
+gesture_major		125200	125920	720	beats	
+gesture_major		125920	126870	950	metaphoric	
+gesture_major		126870	127966	1096	metaphoric	
+gesture_major		129610	130300	690	metaphoric	
+gesture_major		130300	131595	1295	metaphoric	
+gesture_major		132930	135966	3036	deictic	
+gesture_major		136400	137060	660	beats	
+gesture_major		137060	137766	706	metaphoric	
+gesture_major		139370	140600	1230	deictic	
+gesture_major		141030	142000	970	metaphoric	
+gesture_major		142000	143033	1033	metaphoric	
+gesture_major		144166	145433	1267	metaphoric	
+gesture_major		145640	146266	626	metaphoric	
+gesture_major		146380	147340	960	metaphoric	
+gesture_major		148240	149433	1193	beats	
+gesture_major		150210	151560	1350	deictic	
+gesture_major		154766	156166	1400	deictic	
+gesture_major		157710	159266	1556	deictic	
+gesture_major		161000	162433	1433	deictic	
+gesture_major		168260	169466	1206	beats	
+gesture_major		169940	171110	1170	beats	
+gesture_major		171110	172233	1123	beats	
+gesture_major		173020	174000	980	beats	
+gesture_major		176640	177500	860	beats	
+gesture_major		177870	178900	1030	metaphoric	
+gesture_major		180600	181533	933	beats	
+gesture_major		183200	184692	1492	beats	
+gesture_major		185893	186466	573	beats	
+gesture_major		188000	189433	1433	beats	
+gesture_major		190552	191653	1101	metaphoric	
+gesture_major		194022	195533	1511	deictic	
+gesture_major		196790	198600	1810	deictic	
+gesture_major		199480	200533	1053	beats	
+gesture_major		200720	201400	680	beats	
+gesture_major		201443	202200	757	iconic	
+gesture_major		203130	204066	936	beats	
+gesture_major		204724	206033	1309	metaphoric	
+gesture_major		211027	211833	806	beats	
+gesture_major		216100	216603	503	beats	
+gesture_major		217214	217966	752	beats	
+gesture_major		219477	220900	1423	beats	
+gesture_major		222530	224403	1873	beats	
+gesture_major		225352	226500	1148	beats	
+gesture_major		227931	228600	669	beats	
+gesture_major		228600	230333	1733	beats	
+gesture_major		231874	233300	1426	beats	
+gesture_major		234042	234833	791	beats	
+gesture_major		237796	239191	1395	beats	
+gesture_major		239757	240800	1043	deictic	
+gesture_major		243561	244966	1405	metaphoric	
+gesture_major		248625	249533	908	beats	
+gesture_major		249985	251400	1415	metaphoric	
+gesture_major		254004	254997	993	beats	
+gesture_major		254997	255833	836	metaphoric	
+gesture_major		258560	259806	1246	beats	
+gesture_major		260058	260616	558	beats	
+gesture_major		260616	261666	1050	metaphoric	
+gesture_major		262322	263910	1588	deictic	
+gesture_major		263966	266757	2791	metaphoric	
+gesture_major		267253	268533	1280	metaphoric	
+gesture_major		270820	272133	1313	beats	
+gesture_major		277003	278100	1097	beats	
+gesture_major		282915	284170	1255	beats	
+gesture_major		286331	287700	1369	beats	
+gesture_major		289291	290600	1309	beats	
+gesture_major		291596	292633	1037	beats	
+gesture_major		293663	294966	1303	beats	
+scripts		0	1000	1000	good morning everyone today I want to
+scripts		1000	4000	3000	start with a look at perspective visual
+scripts		4000	7000	3000	perspective first we'll look briefly at
+scripts		7000	9000	2000	the kinds of perspective and then we'll
+scripts		9000	11000	2000	look very quickly at its history in art
+scripts		11000	13000	2000	just in case you don't know what we're
+scripts		13000	16000	3000	discussing perspective in art is the way
+scripts		16000	18000	2000	that artists represent three-dimensional
+scripts		18000	20000	2000	objects on their two-dimensional canvas
+scripts		20000	23000	3000	there are two basic sorts of perspective
+scripts		23000	26000	3000	aerial perspective and linear
+scripts		26000	30000	4000	perspective aerial perspective which is
+scripts		30000	33000	3000	aerial meaning air or atmospheric not
+scripts		33000	35000	2000	your view from an airplane aerial
+scripts		35000	37000	2000	perspective is what the atmosphere
+scripts		37000	41000	4000	affects we see especially at distant
+scripts		41000	43000	2000	locations I don't want to try to go into
+scripts		43000	45000	2000	the laws of physics that are involved
+scripts		45000	47000	2000	here but it's aerial perspective that
+scripts		47000	49000	2000	makes a mountain in the distance appear
+scripts		49000	51000	2000	to be a different color that makes it
+scripts		51000	53000	2000	seem hazy or less distinct and closer
+scripts		53000	55000	2000	objects these are effects that realistic
+scripts		55000	58000	3000	artists really attempt to reproduce and
+scripts		58000	60000	2000	that Impressionists used to create their
+scripts		60000	62000	2000	own effects just think of the many of
+scripts		62000	65000	3000	Turner's landscapes or cityscapes like
+scripts		65000	68000	3000	Dido building and Carthage just to get
+scripts		68000	70000	2000	an idea of how the air can affect what
+scripts		70000	73000	3000	we see the other perspective linear
+scripts		73000	76000	3000	perspective is the way that things seem
+scripts		76000	78000	2000	to get smaller farther away they get
+scripts		78000	81000	3000	classic example of this is the way we
+scripts		81000	83000	2000	perceive railroad tracks or line of
+scripts		83000	85000	2000	telephone poles running away from us
+scripts		85000	87000	2000	they seem to get smaller and smaller as
+scripts		87000	90000	3000	they recede until they vanish to a point
+scripts		90000	92000	2000	on the horizon and this point is
+scripts		92000	94000	2000	appropriately called the vanishing point
+scripts		94000	97000	3000	the effect happens whenever it parallel
+scripts		97000	100000	3000	lines like the two train tracks or tops
+scripts		100000	103000	3000	of telephone poles move in the same
+scripts		103000	106000	3000	direction now an object or a scene may
+scripts		106000	108000	2000	have more than one vanishing point a
+scripts		108000	111000	3000	cube with one of its faces squarely
+scripts		111000	113000	2000	perpendicular to us has a single
+scripts		113000	115000	2000	vanishing point directly behind it on
+scripts		115000	118000	3000	the horizon but a cube with a vertical
+scripts		118000	121000	3000	edge facing us has two vanishing points
+scripts		121000	124000	3000	one to the right one to the left and
+scripts		124000	126000	2000	these points are left and right
+scripts		126000	129000	3000	respectively on the horizon where the
+scripts		129000	132000	3000	parallel lines of the faces converge
+scripts		132000	135000	3000	now there's also that same cube can be
+scripts		135000	137000	2000	viewed from a somewhat above or below
+scripts		137000	139000	2000	perspective and it will have three
+scripts		139000	142000	3000	vanishing points one to the right one to
+scripts		142000	144000	2000	the left and a third one behind it
+scripts		144000	148000	4000	either below or above the horizon this
+scripts		148000	151000	3000	is easy to visualize if you look at a
+scripts		151000	153000	2000	corner building from let's say a street
+scripts		153000	155000	2000	intersection you can look down one
+scripts		155000	157000	2000	Street see a right-hand vanishing point
+scripts		157000	159000	2000	look down the cross street see the
+scripts		159000	162000	3000	left-hand vanishing point if you look up
+scripts		162000	165000	3000	you can actually see from the corner of
+scripts		165000	169000	4000	the third vanishing point these kinds of
+scripts		169000	171000	2000	perspectives are easy to see if we view
+scripts		171000	174000	3000	geometric shapes or man-made structures
+scripts		174000	177000	3000	but of course natural scenes really
+scripts		177000	178000	1000	don't have any sets of parallel lines
+scripts		178000	180000	2000	they have no vanishing points but that
+scripts		180000	182000	2000	does not mean they don't exhibit
+scripts		182000	185000	3000	perspective the laws of optics were not
+scripts		185000	187000	2000	understood at all in early Western art
+scripts		187000	190000	3000	artists recognize this effect of course
+scripts		190000	192000	2000	but they weren't really able to figure
+scripts		192000	194000	2000	it out accurately from the paintings
+scripts		194000	196000	2000	inside the Egyptian pyramids to
+scripts		196000	198000	2000	illustrations in medieval Christian
+scripts		198000	201000	3000	churches mirror people were simply drawn
+scripts		201000	204000	3000	larger or drawn lower in the picture to
+scripts		204000	206000	2000	cover people that were farther away
+scripts		206000	208000	2000	there was no real understanding of how
+scripts		208000	210000	2000	the physics of perception worked they
+scripts		210000	212000	2000	never got a grasp of the idea of the
+scripts		212000	213000	1000	vanishing point
+scripts		213000	216000	3000	then came the Renaissance the rebirth of
+scripts		216000	220000	4000	learning and the sciences this was a
+scripts		220000	223000	3000	hotbed of scientific thought da Vinci
+scripts		223000	227000	4000	Galileo Newton and Filippo Brunelleschi
+scripts		227000	229000	2000	Brunelleschi was a 15th century
+scripts		229000	231000	2000	Florentine architect who conducted
+scripts		231000	233000	2000	several optical experiments and
+scripts		233000	236000	3000	discovered the rules of perspective with
+scripts		236000	239000	3000	what he learned he drew a very accurate
+scripts		239000	242000	3000	picture of San Giovanni baptistry in
+scripts		242000	244000	2000	Florence and then he made a small
+scripts		244000	245000	1000	peephole in the middle of that picture
+scripts		245000	248000	3000	he carried it into the street and amazed
+scripts		248000	250000	2000	his acquaintances by having them look
+scripts		250000	252000	2000	through that people from the back of his
+scripts		252000	254000	2000	picture first at a mirror which
+scripts		254000	256000	2000	reflected the image into the viewers
+scripts		256000	260000	4000	line of sight then Brunelleschi would
+scripts		260000	262000	2000	quickly withdraw the mirror leaving the
+scripts		262000	264000	2000	viewer peeping at the act
+scripts		264000	267000	3000	baptistry whose perspective had been
+scripts		267000	270000	3000	replicated perfectly other italian
+scripts		270000	272000	2000	artists notably Donatello began using
+scripts		272000	274000	2000	Brunelleschi's methods of accurate
+scripts		274000	277000	3000	linear perspective and his ideas soon
+scripts		277000	279000	2000	spread throughout Europe development of
+scripts		279000	281000	2000	effective aerial perspective on the
+scripts		281000	284000	3000	other hand was really developed by
+scripts		284000	287000	3000	Flemish and Dutch masters of the same
+scripts		287000	289000	2000	period and could be seen at its best in
+scripts		289000	291000	2000	the works of yan van Eyck's the virgin
+scripts		291000	294000	3000	of chancellor rollin but that's a whole
+scripts		294000	296000	2000	other story
+gesture_handedness		0	670	670	both	
+gesture_handedness		1510	2300	790	both	
+gesture_handedness		2850	3540	690	both	
+gesture_handedness		5283	6366	1083	right	
+gesture_handedness		7292	8000	708	right	
+gesture_handedness		8548	9366	818	right	
+gesture_handedness		9435	10470	1035	right	
+gesture_handedness		12575	13740	1165	both	
+gesture_handedness		14802	15633	831	both	
+gesture_handedness		17133	18800	1667	both	
+gesture_handedness		18960	20433	1473	right	
+gesture_handedness		21440	22766	1326	right	
+gesture_handedness		23742	27133	3391	left	
+gesture_handedness		27770	28300	530	right	
+gesture_handedness		28900	30190	1290	left	
+gesture_handedness		30500	31350	850	both	
+gesture_handedness		31530	32230	700	both	
+gesture_handedness		32230	33300	1070	both	
+gesture_handedness		33550	34533	983	right	
+gesture_handedness		36440	37700	1260	both	
+gesture_handedness		39910	41173	1263	left	
+gesture_handedness		43230	44466	1236	both	
+gesture_handedness		45870	47200	1330	both	
+gesture_handedness		49370	50600	1230	left	
+gesture_handedness		51340	52300	960	both	
+gesture_handedness		55210	56166	956	both	
+gesture_handedness		57360	58670	1310	both	
+gesture_handedness		59010	60450	1440	left	
+gesture_handedness		62133	63600	1467	both	
+gesture_handedness		64430	65080	650	both	
+gesture_handedness		65080	67140	2060	left	
+gesture_handedness		67740	69090	1350	both	
+gesture_handedness		69090	70340	1250	both	
+gesture_handedness		72680	73480	800	both	
+gesture_handedness		73500	75033	1533	both	
+gesture_handedness		75060	76833	1773	both	
+gesture_handedness		77080	78266	1186	both	
+gesture_handedness		81400	82233	833	both	
+gesture_handedness		83350	84570	1220	right	
+gesture_handedness		86550	87233	683	both	
+gesture_handedness		88940	89620	680	both	
+gesture_handedness		89620	90433	813	right	
+gesture_handedness		92870	94466	1596	right	
+gesture_handedness		96180	98166	1986	both	
+gesture_handedness		98260	99866	1606	both	
+gesture_handedness		99870	101266	1396	both	
+gesture_handedness		101840	103233	1393	both	
+gesture_handedness		104420	105766	1346	both	
+gesture_handedness		106220	107200	980	both	
+gesture_handedness		108210	109466	1256	left	
+gesture_handedness		109640	110630	990	left	
+gesture_handedness		110630	111733	1103	left	
+gesture_handedness		112530	113733	1203	left	
+gesture_handedness		115570	116566	996	left	
+gesture_handedness		117450	119033	1583	left	
+gesture_handedness		119230	120266	1036	left	
+gesture_handedness		121640	123600	1960	left	
+gesture_handedness		123600	125200	1600	right	
+gesture_handedness		125200	125920	720	both	
+gesture_handedness		125920	126870	950	both	
+gesture_handedness		126870	127966	1096	both	
+gesture_handedness		129610	130300	690	both	
+gesture_handedness		130300	131595	1295	both	
+gesture_handedness		132930	135966	3036	left	
+gesture_handedness		136400	137060	660	both	
+gesture_handedness		137060	137766	706	both	
+gesture_handedness		139370	140600	1230	left	
+gesture_handedness		141030	142000	970	left	
+gesture_handedness		142000	143033	1033	left	
+gesture_handedness		144166	145433	1267	left	
+gesture_handedness		145640	146266	626	left	
+gesture_handedness		146380	147340	960	left	
+gesture_handedness		148240	149433	1193	both	
+gesture_handedness		150210	151560	1350	left	
+gesture_handedness		154766	156166	1400	left	
+gesture_handedness		157710	159266	1556	right	
+gesture_handedness		161000	162433	1433	left	
+gesture_handedness		168260	169466	1206	both	
+gesture_handedness		169940	171110	1170	both	
+gesture_handedness		171110	172233	1123	both	
+gesture_handedness		173020	174000	980	both	
+gesture_handedness		176640	177500	860	both	
+gesture_handedness		177870	178900	1030	both	
+gesture_handedness		180600	181533	933	both	
+gesture_handedness		183200	184692	1492	both	
+gesture_handedness		185893	186466	573	both	
+gesture_handedness		188000	189433	1433	left	
+gesture_handedness		190552	191653	1101	right	
+gesture_handedness		194022	195533	1511	left	
+gesture_handedness		196790	198600	1810	left	
+gesture_handedness		199480	200533	1053	both	
+gesture_handedness		200720	201400	680	both	
+gesture_handedness		201443	202200	757	both	
+gesture_handedness		203130	204066	936	both	
+gesture_handedness		204724	206033	1309	both	
+gesture_handedness		211027	211833	806	right	
+gesture_handedness		216100	216603	503	both	
+gesture_handedness		217214	217966	752	both	
+gesture_handedness		219477	220900	1423	both	
+gesture_handedness		222530	224403	1873	left	
+gesture_handedness		225352	226500	1148	both	
+gesture_handedness		227931	228600	669	both	
+gesture_handedness		228600	230333	1733	both	
+gesture_handedness		231874	233300	1426	right	
+gesture_handedness		234042	234833	791	right	
+gesture_handedness		237796	239191	1395	both	
+gesture_handedness		239757	240800	1043	left	
+gesture_handedness		243561	244966	1405	both	
+gesture_handedness		248625	249533	908	left	
+gesture_handedness		249985	251400	1415	both	
+gesture_handedness		254004	254997	993	left	
+gesture_handedness		254997	255833	836	left	
+gesture_handedness		258560	259806	1246	both	
+gesture_handedness		260058	260616	558	both	
+gesture_handedness		260616	261666	1050	both	
+gesture_handedness		262322	263910	1588	left	
+gesture_handedness		263966	266757	2791	left	
+gesture_handedness		267253	268533	1280	both	
+gesture_handedness		270820	272133	1313	both	
+gesture_handedness		277003	278100	1097	both	
+gesture_handedness		282915	284170	1255	both	
+gesture_handedness		286331	287700	1369	both	
+gesture_handedness		289291	290600	1309	left	
+gesture_handedness		291596	292633	1037	left	
+gesture_handedness		293663	294966	1303	both	
